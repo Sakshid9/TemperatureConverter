@@ -15,10 +15,8 @@ Feel free to explore and customize the code to suit your specific temperature co
 
 This simple temperature calculator serves as a starting point for more advanced temperature conversion applications. Modify and extend it based on your project requirements!
 
-# Live Demo
 
-
-# To run the WeCare website locally or deploy it to a server, follow these steps:
+# To run the Temperature Converters locally or deploy it to a server, follow these steps:
 
 Clone the repository:
 https://github.com/Sakshid9/TemperatureConverter.git Open index.html in your preferred web browser.
